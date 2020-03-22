@@ -1,0 +1,14 @@
+C:\Users\Ekber\Desktop\BotProject\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\NewsBotProject.exe
+C:\Users\Ekber\Desktop\BotProject\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\NewsBotProject.deps.json
+C:\Users\Ekber\Desktop\BotProject\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\NewsBotProject.runtimeconfig.json
+C:\Users\Ekber\Desktop\BotProject\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\NewsBotProject.runtimeconfig.dev.json
+C:\Users\Ekber\Desktop\BotProject\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\NewsBotProject.dll
+C:\Users\Ekber\Desktop\BotProject\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\NewsBotProject.pdb
+C:\Users\Ekber\Desktop\BotProject\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\NewsBotProject.AssemblyInfoInputs.cache
+C:\Users\Ekber\Desktop\BotProject\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\NewsBotProject.AssemblyInfo.cs
+C:\Users\Ekber\Desktop\BotProject\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\NewsBotProject.dll
+C:\Users\Ekber\Desktop\BotProject\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\NewsBotProject.pdb
+C:\Users\Ekber\Desktop\BotProject\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Ekber\Desktop\BotProject\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\WebDriver.dll
+C:\Users\Ekber\Desktop\BotProject\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\NewsBotProject.csprojAssemblyReference.cache
+C:\Users\Ekber\Desktop\BotProject\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\NewsBotProject.csproj.CopyComplete

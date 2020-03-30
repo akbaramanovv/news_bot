@@ -28,3 +28,4 @@ C:\Users\Ekber\Desktop\BotProject\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.
 C:\Users\Ekber\Desktop\BotProject\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
 C:\Users\Ekber\Desktop\BotProject\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
 C:\Users\Ekber\Desktop\BotProject\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\WebDriver.Support.dll
+C:\Users\Ekber\Desktop\BotProject\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\NewsBotProject.csprojAssemblyReference.cache
